@@ -1,4 +1,4 @@
-![PED PRO COVER](ASSETS/copertina_github_ped_promisuraca_v4.jpg)
+![PED PRO COVER](ASSETS/copertina_github_ped_pro_misuraca_v4.png)
 # PROTOCOLLO PED PRO UNIVERSALE (V4.0)
 ### The Zero Entropy Editorial Plan Standard by Roberto Misuraca
 
@@ -51,3 +51,4 @@ To get clean reports (no logos/signatures) and the unlocked Excel Template, purc
 *© 2025 Roberto Misuraca. All Rights Reserved.*
 
 *Contacts: info@apsc.it | WA: 393397743362*
+
